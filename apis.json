@@ -1,0 +1,39 @@
+{
+    "name": "SecurityWatch",
+    "description": "",
+    "image": "",
+    "tags": [
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/securitywatch\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "SecurityWatch",
+            "description": null,
+            "image": "",
+            "humanURL": "http:\/\/bhconsulting.ie\/securitywatch\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/securitywatch-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/bhconsulting.ie\/securitywatch\/?feed=rss2"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/bhconsulting.ie\/securitywatch\/"
+        }
+    ]
+}
